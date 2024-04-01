@@ -1,0 +1,14 @@
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\bin\Debug\net8.0\OrderingDomain.deps.json
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\bin\Debug\net8.0\OrderingDomain.dll
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\bin\Debug\net8.0\OrderingDomain.pdb
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.AssemblyInfoInputs.cache
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.AssemblyInfo.cs
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.csproj.CoreCompileInputs.cache
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.dll
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\refint\OrderingDomain.dll
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.pdb
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\ref\OrderingDomain.dll
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\bin\Debug\net8.0\OrderingDomain.runtimeconfig.json
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.genruntimeconfig.cache
+C:\Users\Макс Полоз\source\repos\Ordering\src\OrderingMVC\OrderingDomain\OrderingDomain\obj\Debug\net8.0\OrderingDomain.csproj.AssemblyReference.cache
